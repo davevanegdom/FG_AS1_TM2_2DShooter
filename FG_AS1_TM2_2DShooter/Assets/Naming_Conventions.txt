@@ -1,0 +1,11 @@
+Naming conventions to keep it consistent across the project.
+
+- Scripts: c_Scriptname
+- Materials: m_MaterialName
+- Audio: aud_AudiofileName
+- Animations: anim_AnimationName
+- Resources: p_PrefabName
+
+- Sprites: s_SpriteName
+
+
